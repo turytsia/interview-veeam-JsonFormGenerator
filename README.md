@@ -60,6 +60,7 @@ cd your_folder
 
 Install all the dependencies:
 ```bash
+cd client
 npm i
 ```
 
