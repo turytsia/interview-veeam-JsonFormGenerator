@@ -60,18 +60,14 @@ cd your_folder
 
 Install all the dependencies:
 ```bash
-cd client
-npm i
+cd client && npm i
 ```
 
 #### Running Locally (Development)
 
 - In order to run application in production mode, run:
-
 ```bash
-npm install
-# or
-yarn install
+npm run dev
 ```
 - Open your browser at http://localhost:3000
 
