@@ -69,7 +69,7 @@ cd client && npm i
 ```bash
 npm run dev
 ```
-- Open your browser at http://localhost:3000
+- Open your browser at http://localhost:xxxx
 
 #### Building & Previewing (Production)
 
