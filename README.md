@@ -54,7 +54,8 @@ Project requires the following to run:
 
 Clone the repo:
 ```bash
-TODO
+git clone https://github.com/turytsia/interview-veeam-JsonFormGenerator.git your_folder
+cd your_folder
 ```
 
 Install all the dependencies:
